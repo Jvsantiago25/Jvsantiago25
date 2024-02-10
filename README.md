@@ -32,14 +32,14 @@ Rio de Janeiro, Brasil 📍
 
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" width="40"/>
-<img align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" width="40"/>
-<img align="center" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  height="30" width="40"/>
+<img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" width="60"/>
+<img align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" width="60"/>
+<img align="center" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  height="50" width="60"/>
           
-<img align="center" alt="TW" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  height="30" width="40"/>
-<img align="center" alt="TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" width="40"/>
-<img align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" width="40"/>
-<img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" width="40"/>
+<img align="center" alt="TW" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  height="50" width="60"/>
+<img align="center" alt="TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" width="60"/>
+<img align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" width="60"/>
+<img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" width="60"/>
 </div>
 <br/>
 
