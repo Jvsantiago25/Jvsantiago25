@@ -21,7 +21,7 @@ Rio de Janeiro, Brasil 📍
 
 ## Contato
 
-<div> <img align="center" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="40" href="https://www.linkedin.com/in/jo%C3%A3o-victor-santiago/"></></div>  
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-santiago/"> <img align="center" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="40" ></a>  
          
 
 
