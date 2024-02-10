@@ -11,7 +11,7 @@ Rio de Janeiro, Brasil 📍
 
 
 
-👨🏻‍💻 Aspirante a Desenvolvedor FullStack Sou um aspirante a desenvolvedor Full Stack apaixonado por tecnologia e em constante busca por aprendizado e crescimento. Minha jornada no mundo do desenvolvimento começou com o JavaScript e o TypeScript, e desde então tenho me dedicado a aprimorar minhas habilidades em diversas ferramentas e tecnologias. 
+👨🏻‍💻 Sou um aspirante a desenvolvedor Full Stack apaixonado por tecnologia e em constante busca por aprendizado e crescimento. Minha jornada no mundo do desenvolvimento começou com o JavaScript e o TypeScript, e desde então tenho me dedicado a aprimorar minhas habilidades em diversas ferramentas e tecnologias. 
 
 🚀 Tenho experiência e conhecimento em frameworks como Next.js e React, que utilizo para criar interfaces web modernas e dinâmicas, bem como no desenvolvimento de aplicações do lado do servidor com Node.js. Além disso, estou familiarizado com bancos de dados relacionais como PostgreSQL, ajudando a criar bases de dados robustas e eficientes para as aplicações que desenvolvo.
 
