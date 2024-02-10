@@ -19,17 +19,17 @@ Rio de Janeiro, Brasil 📍
 
 
 
-#
+## Contato
+
+<div> <img align="center" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="40" href="https://www.linkedin.com/in/jo%C3%A3o-victor-santiago/"></></div>  
+         
 
 
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()  [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-santiago/)
-
-#
-
-## 🛠  Tech Stack
+<br/>
 
 ### 💻 Front-end
+
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" width="40"/>
@@ -41,6 +41,7 @@ Rio de Janeiro, Brasil 📍
 <img align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" width="40"/>
 <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" width="40"/>
 </div>
+<br/>
 
 
 ### ⚙️ Back-end e Banco de dados
