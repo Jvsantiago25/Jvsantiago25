@@ -23,15 +23,19 @@ Rio de Janeiro, Brasil 📍
 
 ## Contato
 
+
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-santiago/"> <img align="center" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="50" ></a>  
        
 
 <br/>
 
+## 🛠 Tech Stack
+
+
 
 ### 💻 Front-end
 
-#
+
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="50"/>
@@ -46,9 +50,11 @@ Rio de Janeiro, Brasil 📍
 <br/>
 
 
+#
+
 ### ⚙️ Back-end e Banco de dados
 
-#
+
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="60"/>
